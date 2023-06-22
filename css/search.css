@@ -80,8 +80,9 @@
 
 .s-item > img {
 	border-radius: 15px;
-	height: 10rem;
+	height: 15rem;
 	width: 15rem;
-	cursor: pointer; 
+	cursor: pointer;
+	margin-bottom: 10px; 
 	
 }
