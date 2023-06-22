@@ -59,14 +59,14 @@
 	flex-direction: row;
 	justify-content: space-between;
 	align-items: flex-end;
-	font-size: 10px;
+	font-size: 8px;
 }
 
 .s-item > .s-footer-foot button {
 	background: none;
 	border-radius: 30px;
 	border: 0.5px solid var(--nav-glow);
-	padding: 0.1em;
+	padding: 0.1px;
 	color: var(--fg);
 	cursor: pointer;
 }
@@ -78,8 +78,8 @@
 }
 
 .s-item > img {
-	border-radius: 10px;
-	height: 15rem;
+	border-radius: 15px;
+	height: 10rem;
 	width: 15rem;
 	cursor: pointer; 
 	
