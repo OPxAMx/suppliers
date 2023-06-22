@@ -7,13 +7,13 @@
 }
 
 #back {
-	font-size: 50px;
+	font-size: small;
 	cursor: pointer;
 	user-select: none;
 }
 
 #search {
-	font-size: 10px;
+	font-size: small;
 	width: 40%;
 	height: 2em;
 	border-radius: 15px;
@@ -43,7 +43,7 @@
 	max-width: 400px;
 	border: 1px solid var(--nav-glow);
 	box-shadow: 0 0 7px 2px var(--nav-glow);
-	margin-bottom: 1.5rem;
+	margin-bottom: 2rem;
 }
 
 .s-item > .s-footer-head {
@@ -51,6 +51,7 @@
 	font-weight: bold;
 	padding-top: 0.3rem;
 	text-align: center;
+	font-size: small;
 }
 
 .s-item > .s-footer-foot {
@@ -59,12 +60,12 @@
 	flex-direction: row;
 	justify-content: space-between;
 	align-items: flex-end;
-	font-size: 8px;
+	font-size: small;
 }
 
 .s-item > .s-footer-foot button {
 	background: none;
-	border-radius: 30px;
+	border-radius: 20px;
 	border: 0.5px solid var(--nav-glow);
 	padding: 0.1px;
 	color: var(--fg);
