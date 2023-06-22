@@ -54,12 +54,12 @@
 }
 
 .s-item > .s-footer-foot {
-	margin-top: 0.5rem;
+	margin-top: 0.2rem;
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
 	align-items: flex-end;
-	font-size: larger;
+	font-size: large;
 }
 
 .s-item > .s-footer-foot button {
@@ -78,8 +78,9 @@
 }
 
 .s-item > img {
-	border-radius: 15px;
-	height: 12rem;
-	width: 12rem;
-	object-fit: cover;
+	border-radius: 10px;
+	height: 10rem;
+	width: 10rem;
+	cursor: pointer; 
+	
 }
