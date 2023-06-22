@@ -5,13 +5,13 @@
 }
 
 #back {
-	font-size: small;
+	font-size: medium;
 	cursor: pointer;
 	user-select: none;
 }
 
 #search {
-	font-size: medium;
+	font-size: large;
 	width: 40%;
 	height: 2em;
 	border-radius: 15px;
@@ -49,7 +49,7 @@
 	font-weight: bold;
 	padding-top: 0.3rem;
 	text-align: center;
-	font-size: small;
+	font-size: medium;
 }
 
 .s-item > .s-footer-foot {
@@ -57,7 +57,7 @@
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
-	align-items: flex-end;
+	align-items: center;
 	font-size:medium;
 }
 
@@ -65,7 +65,7 @@
 	background: none;
 	border-radius: 20px;
 	border: 0.5px solid var(--nav-glow);
-	padding: 0.1px;
+	padding: 0.5px;
 	color: var(--fg);
 	cursor:pointer;
 }
@@ -80,7 +80,7 @@
 	border-radius: 15px;
 	height: 15rem;
 	width: 15rem;
-	cursor: text;
+	cursor: alias;
 	margin-bottom: 30px; 
 	
 }
