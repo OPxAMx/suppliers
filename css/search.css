@@ -14,8 +14,8 @@
 
 #search {
 	font-size: 10px;
-	width: auto;
-	height: auto;
+	width: 40%;
+	height: 2em;
 	border-radius: 15px;
 	border: 2px solid var(--nav-glow);
 	text-align: center;
@@ -40,7 +40,7 @@
 	background-color: var(--bg-nav);
 	border-radius: 15px;
 	padding: 0.3rem;
-	max-width: 200px;
+	max-width: 400px;
 	border: 1px solid var(--nav-glow);
 	box-shadow: 0 0 7px 2px var(--nav-glow);
 	margin-bottom: 1.5rem;
@@ -79,8 +79,8 @@
 
 .s-item > img {
 	border-radius: 10px;
-	height: 10rem;
-	width: 10rem;
+	height: 15rem;
+	width: 15rem;
 	cursor: pointer; 
 	
 }
