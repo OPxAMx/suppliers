@@ -63,11 +63,12 @@
 
 .s-item > .s-footer-foot button {
 	background: none;
-	border-radius: 20px;
+	border-radius: 15px;
 	border: 0.5px solid var(--nav-glow);
-	padding: 0.5px;
+	padding: 3px;
 	color: var(--fg);
-	cursor:pointer;
+	cursor: pointer;
+	font-size: large;
 }
 
 .s-item > .s-footer-foot button:focus,
@@ -80,7 +81,7 @@
 	border-radius: 15px;
 	height: 15rem;
 	width: 15rem;
-	cursor: alias;
+	cursor:auto;
 	margin-bottom: 30px; 
 	
 }
